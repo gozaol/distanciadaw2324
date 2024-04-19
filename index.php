@@ -3,7 +3,7 @@
 /**
  *
  * @author Antonio González Oliva
- * @version 1.0
+ * @version 2.0
  * @internal Comentario para el desarrollador
 */
 
